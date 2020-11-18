@@ -1,0 +1,1 @@
+This is a placeholder for forum.radicalxchange.org. We are taking it down in November of 2020. The CSS is a hand-edited version of the CSS for our main site. I'm sorry this is so janky.
